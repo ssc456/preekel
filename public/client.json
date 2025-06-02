@@ -1,65 +1,78 @@
 {
-  "siteTitle": "BizBud Template",
-  "logoUrl": "/logo.png",
+  "siteTitle": "",
+  "logoUrl": "/images/logo.png",
   "hero": {
-    "headline": "Launch Your Business Online Today",
-    "subheadline": "Get a modern, mobile-friendly website tailored for your small business — fast and affordable.",
-    "ctaText": "Get Started",
+    "headline": "Your Groundwork & Landscaping Experts",
+    "subheadline": "Professional, reliable, and fully insured — serving Milton Keynes and surrounding areas.",
+    "ctaText": "Get a Free Quote",
     "ctaLink": "#contact"
   },
   "about": {
-    "title": "About Us",
-    "description": "BizBud helps small businesses get online with beautiful, simple websites. Whether you're a baker, a cleaner, or a local service provider, we make your business look good online.",
+    "title": "About Preekel",
+    "description": "Preekel Construction Services are specialists in domestic and commercial groundwork and landscaping. We are fully insured, offer quality workmanship, and are proud to serve clients across Milton Keynes and the surrounding areas.",
     "image": "/images/about.png"
   },
   "services": {
-    "title": "What We Offer",
+    "title": "Our Services",
     "items": [
-      { "title": "Professional Website", "description": "Sleek, responsive, and SEO-ready site tailored to your business." },
-      { "title": "Custom Domain Setup", "description": "Get your own .co.uk or .com with email address setup too." },
-      { "title": "Fast Turnaround", "description": "We'll have your site live within 48 hours of final approval." }
+      { "title": "Paving & Block Paving", "description": "Driveways, patios, and custom paved surfaces." },
+      { "title": "Surfacing Works", "description": "Complete surfacing solutions for all property types." },
+      { "title": "Slabbing & Porcelain Tiling", "description": "Clean, modern finishes for outdoor spaces." },
+      { "title": "Turfing & Garden Refurbishments", "description": "Lawn installation and garden transformations." },
+      { "title": "Driveways & Extensions", "description": "Strong, durable, and professionally finished." },
+      { "title": "Retaining Walls", "description": "Structural and aesthetic retaining solutions." },
+      { "title": "Site Preparation & Earthworks", "description": "Ground clearance, grading, and readiness work." },
+      { "title": "Foundations & Drainage", "description": "Foundation laying and drainage system installs." },
+      { "title": "Site Clearance & Remediation", "description": "Full removal and preparation for new works." },
+      { "title": "Waste Removal", "description": "Licensed, efficient, and environmentally responsible." }
     ]
   },
   "features": {
     "title": "Why Choose Us?",
     "items": [
-      { "icon": "RocketLaunchIcon", "title": "Fast Setup", "description": "From draft to live in under 2 days." },
-      { "icon": "DevicePhoneMobileIcon", "title": "Mobile First", "description": "Looks perfect on any device." },
-      { "icon": "CogIcon", "title": "Easy Updates", "description": "Change your content with one message." }
+      { "icon": "CheckBadgeIcon", "title": "Domestic & Commercial Projects", "description": "No job too big or small — we cover all scopes." },
+      { "icon": "ShieldCheckIcon", "title": "Fully Insured", "description": "Your property is in safe, professional hands." },
+      { "icon": "UserGroupIcon", "title": "Experienced Team", "description": "Skilled professionals focused on quality workmanship." }
     ]
   },
   "gallery": {
-    "title": "Gallery",
+    "title": "Recent Work",
     "images": [
-      "/images/gallery/dog1.jpg",
-      "/images/gallery/dog2.jpg",
-      "/images/gallery/dog3.jpg",
-      "/images/gallery/dog4.jpg",
-      "/images/gallery/dog5.jpg",
-      "/images/gallery/dog6.jpg"
+      "/images/gallery/preekel1.jpg",
+      "/images/gallery/preekel2.jpg",
+      "/images/gallery/preekel3.png"
     ]
   },
   "testimonials": {
-    "title": "Happy Customers",
+    "title": "Customer Feedback",
     "quotes": [
-      { "name": "Sarah the Baker", "quote": "BizBud made my bakery look amazing online. Orders have doubled!", "image": "/images/sarah.png" },
-      { "name": "Mike's Mowing", "quote": "I didn't think I needed a website — now I get more calls than ever.", "image": "/images/mike.png" }
+      {
+        "name": "Residential Client",
+        "quote": "The new driveway looks brilliant — completed ahead of schedule and exactly how we wanted it.",
+        "image": "/images/testimonial1.png"
+      },
+      {
+        "name": "Commercial Project Manager",
+        "quote": "Excellent team. Professional communication and top-quality groundwork.",
+        "image": "/images/testimonial2.png"
+      }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "FAQ",
     "items": [
-      { "question": "How much does it cost?", "answer": "We charge a simple £250 for 12 months, or £25/month." },
-      { "question": "Can I update my site later?", "answer": "Yes! You can email us changes, or use your login portal." }
+      { "question": "Do you offer free quotes?", "answer": "Yes — get in touch anytime and we’ll provide a no-obligation quote." },
+      { "question": "Are you fully insured?", "answer": "Yes — we’re fully insured and ready for both domestic and commercial work." },
+      { "question": "Do you work outside of Milton Keynes?", "answer": "Yes, we also cover surrounding areas." }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/yourbizbud",
-    "instagram": "https://instagram.com/yourbizbud"
+    "facebook": ""
   },
   "contact": {
-    "title": "Get In Touch",
-    "description": "Ready to get started? Drop us a message and we'll set up your demo site.",
-    "email": "hello@bizbud.co.uk"
+    "title": "Call Us for a Free Quote",
+    "description": "Reach out today and we’ll arrange a visit or quote based on your needs.",
+    "email": "",
+    "phone": "07365 522999 / 07515 173141"
   }
 }

@@ -9,6 +9,7 @@ const colorMap = {
   purple: "bg-purple-700",
   indigo: "bg-indigo-700",
   gray: "bg-gray-700",
+  slate: "bg-slate-700",
 };
 
 function Footer({ social, primaryColor }) {
